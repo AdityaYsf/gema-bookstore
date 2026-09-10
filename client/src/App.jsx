@@ -14,7 +14,7 @@ import AdminOrders from './pages/Admin/Orders/Orders'
 import ProtectedRoute from './components/Auth/ProtectedRoutes'
 import AdminRoute from './components/Auth/AdminRoute'
 import OrderSuccess from './pages/OrderSuccess/orderSuccess'
-import MyOrders from './pages/MyOrders/myOrders'
+import MyOrders from './pages/MyOrders/MyOrders'
 import ScrollToTop from './components/Layout/ScrollToTop'
 import GoogleBooksSearch from './components/googleBooksSearch/googleBooksSearch'
 
